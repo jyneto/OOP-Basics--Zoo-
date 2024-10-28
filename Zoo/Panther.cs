@@ -19,7 +19,7 @@
             Console.WriteLine($"{Name} is eating a monkey");
         }
         //Method 
-        public void MakeSound()
+        public void makeSound()
         {
             Console.WriteLine("GGGGGrrrrrroooooowwwwwllll!!");
         }
