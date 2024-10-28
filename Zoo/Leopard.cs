@@ -17,7 +17,7 @@
         }
 
         // Method that simulates the leopard making a sound
-        public void MakeSound()
+        public void makeSound()
         {
             // Prints the sound the leopard makes
             Console.WriteLine("Ppppuuuuuurrrr");

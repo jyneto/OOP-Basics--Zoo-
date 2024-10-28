@@ -43,7 +43,7 @@
             // Simulate Leopard's stealth
             leopard.RougeStealth();
             // Simulate Leopard making a sound
-            leopard.MakeSound();
+            leopard.makeSound();
 
 
             // For better output visual in the console
