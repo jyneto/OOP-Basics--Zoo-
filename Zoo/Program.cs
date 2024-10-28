@@ -73,7 +73,7 @@
             jumbo.DisplayInfo();
             // Simulate feeding Jumbo
             jumbo.Feed();
-            // Simulate feeding Jumbo
+            // Simulate Jumbo making a sound.
             jumbo.makeSound();
 
 
