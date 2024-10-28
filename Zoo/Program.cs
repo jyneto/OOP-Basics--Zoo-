@@ -29,7 +29,7 @@
             // Simulate Black Panther climbing
             blackPanther.Climb();
             // Simulate Black Panther making a sound
-            blackPanther.MakeSound();
+            blackPanther.makeSound();
 
             // For better output visual in the console
             Console.WriteLine();
