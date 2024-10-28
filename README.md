@@ -1,0 +1,1 @@
+In this assignment we where challange to use inheritance in object-oriented programming. The task largely involves thinking about a structure for inheritence but also includes partially ipmlementing it in code. 
